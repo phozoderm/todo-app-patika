@@ -1,0 +1,42 @@
+.card-body {
+  height: 159px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.todo-bg-done {
+  opacity: 0.5;
+}
+
+.todo-bg-not-done {
+  opacity: 1;
+}
+
+.white-space-wrap {
+  white-space: pre-wrap;
+}
+
+.navbar-color {
+  background: linear-gradient(to right, #4a4a4a, #7a7a7a, #a6a6a6, #bdbdbd);
+}
+
+.sign-button {
+  background: #b1b1b1;
+  border: #b1b1b1;
+}
+
+.add-new {
+  background: linear-gradient(to right, #4a4a4a, #7a7a7a, #a6a6a6, #bdbdbd);
+}
+
+.modal-color {
+  background: #f7f7f7;
+}
+
+.card {
+  border-width: 2px;
+}
+
+.check-icon {
+  filter: invert(38%) sepia(72%) saturate(467%) hue-rotate(100deg) brightness(94%) contrast(91%);
+}
